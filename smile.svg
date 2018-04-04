@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400" height="400" >
+
+    <circle cx="200" cy="200" r="150" fill="#fff600" />
+
+    <circle cx="130" cy="150" r="50" fill="white" />
+    <ellipse cx="130" cy="150" rx="25" ry="50" fill="skyblue" />
+    <circle cx="140" cy="160" r="10" fill="white" />
+
+    <circle cx="260" cy="150" r="50" fill="white" />
+    <ellipse cx="260" cy="150" rx="25" ry="50" fill="skyblue" />
+    <circle cx="270" cy="160" r="10" fill="white" />
+
+    <path d="M130,220 l10,10 h10,20 v50,20 z"/>
+
+</svg>
